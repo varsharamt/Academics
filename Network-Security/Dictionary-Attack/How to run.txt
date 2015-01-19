@@ -1,0 +1,4 @@
+password.txt,shadow.txt,top250.txt are the input files.
+combine.c program will combine the password.txt and shadow.txt.
+decrypt.c program will extract the passwords from the top250.txt.
+compare.c program will give the cracked passwords.
